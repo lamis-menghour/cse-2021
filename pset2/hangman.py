@@ -1,7 +1,7 @@
 # Problem Set 2, hangman.py
 # Name: Lamis Menghour
 # Collaborators: 
-# Time spent: 20 days
+# Time spent: 10 days
 
 # Hangman Game
 # -----------------------------------
